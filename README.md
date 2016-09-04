@@ -6,3 +6,4 @@
 ####目录
 
 [java学习（一）-概述](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%B8%80%EF%BC%89-%E6%A6%82%E8%BF%B0.md)
+[java学习（二）-java的基本程序设计结构（一）--数据类型与变量](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%BA%8C%EF%BC%89-java%E7%9A%84%E5%9F%BA%E6%9C%AC%E7%A8%8B%E5%BA%8F%E8%AE%BE%E8%AE%A1%E7%BB%93%E6%9E%84%EF%BC%88%E4%B8%80%EF%BC%89.md)
