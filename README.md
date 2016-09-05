@@ -15,4 +15,4 @@
 
 [java学习(五)-文档注释](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0%EF%BC%88%E4%BA%94%EF%BC%89-%E6%96%87%E6%A1%A3%E6%B3%A8%E9%87%8A.md)
 
-[java学习(六)-对象与类](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0%EF%BC%88%E5%85%AD%EF%BC%89-%E5%AF%B9%E8%B1%A1%E4%B8%8E%E7%B1%BB.md)
+[java学习(六)-对象与类(一)——面向对象程序设计概述、用户自定义类](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0%EF%BC%88%E5%85%AD%EF%BC%89-%E5%AF%B9%E8%B1%A1%E4%B8%8E%E7%B1%BB.md)
