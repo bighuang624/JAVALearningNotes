@@ -22,3 +22,5 @@
 [java学习(八)-类、超类和子类，hashCode、toString](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E5%85%AB)-%E7%B1%BB%E3%80%81%E8%B6%85%E7%B1%BB%E5%92%8C%E5%AD%90%E7%B1%BB%EF%BC%8ChashCode%E3%80%81toString.md)
 
 [java学习(九)-泛型数组列表、对象包装器、自动装箱](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E4%B9%9D)-%E6%B3%9B%E5%9E%8B%E6%95%B0%E7%BB%84%E5%88%97%E8%A1%A8%E3%80%81%E5%AF%B9%E8%B1%A1%E5%8C%85%E8%A3%85%E5%99%A8%E3%80%81%E8%87%AA%E5%8A%A8%E8%A3%85%E7%AE%B1.md)
+
+[java学习(十)-参数数量可变的方法、继承设计技巧](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E5%8D%81)-%E5%8F%82%E6%95%B0%E6%95%B0%E9%87%8F%E5%8F%AF%E5%8F%98%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%81%E7%BB%A7%E6%89%BF%E8%AE%BE%E8%AE%A1%E6%8A%80%E5%B7%A7.md)
