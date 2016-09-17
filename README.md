@@ -20,3 +20,5 @@
 [java学习(七)-对象与类(二)——方法参数、对象构造、包、类设计技巧](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E4%B8%83)-%E5%AF%B9%E8%B1%A1%E4%B8%8E%E7%B1%BB(%E4%BA%8C)%E2%80%94%E2%80%94%E6%96%B9%E6%B3%95%E5%8F%82%E6%95%B0%E3%80%81%E5%AF%B9%E8%B1%A1%E6%9E%84%E9%80%A0%E3%80%81%E5%8C%85%E3%80%81%E7%B1%BB%E8%AE%BE%E8%AE%A1%E6%8A%80%E5%B7%A7.md)
 
 [java学习(八)-类、超类和子类，hashCode、toString](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E5%85%AB)-%E7%B1%BB%E3%80%81%E8%B6%85%E7%B1%BB%E5%92%8C%E5%AD%90%E7%B1%BB%EF%BC%8ChashCode%E3%80%81toString.md)
+
+[java学习(九)-泛型数组列表、对象包装器、自动装箱]()
