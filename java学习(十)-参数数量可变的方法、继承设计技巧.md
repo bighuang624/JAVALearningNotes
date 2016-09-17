@@ -1,8 +1,12 @@
 ####参数数量可变的方法
 printf方法是这样定义的：
+
 `public class PrintStream{`
+
 `public PrintStream printf(String fmt,Object... args){ return format(fmt,args)}`
+
 `}`
+
 这里的省略号...是java代码的一部分，它表明这个方法可以接受任意数量的对象（除fmt参数之外）。
 
 实际上，printf方法接收两个参数，一个是格式字符串，另一个是Object[]数组，其中存着所有的参数（）。换句话说，对于printf的实现者来说，Object...参数类型与Object[]完全一样。
