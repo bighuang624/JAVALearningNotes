@@ -26,3 +26,5 @@
 [java学习(十)-参数数量可变的方法、继承设计技巧](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E5%8D%81)-%E5%8F%82%E6%95%B0%E6%95%B0%E9%87%8F%E5%8F%AF%E5%8F%98%E7%9A%84%E6%96%B9%E6%B3%95%E3%80%81%E7%BB%A7%E6%89%BF%E8%AE%BE%E8%AE%A1%E6%8A%80%E5%B7%A7.md)
 
 [java学习(十一)-反射](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E5%8D%81%E4%B8%80)-%E5%8F%8D%E5%B0%84.md)
+
+[java学习(十二)-接口、对象克隆](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E5%8D%81%E4%BA%8C)-%E6%8E%A5%E5%8F%A3%E3%80%81%E5%AF%B9%E8%B1%A1%E5%85%8B%E9%9A%86.md)
