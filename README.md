@@ -29,7 +29,9 @@
 
 [java学习(十二)-接口、对象克隆](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E5%8D%81%E4%BA%8C)-%E6%8E%A5%E5%8F%A3%E3%80%81%E5%AF%B9%E8%B1%A1%E5%85%8B%E9%9A%86.md)
 
+[java学习(十三)-内部类](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E5%8D%81%E4%B8%89)-%E5%86%85%E9%83%A8%E7%B1%BB.md)
 
+[java学习(十四)-JAR文件和资源](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E5%8D%81%E5%9B%9B)-JAR%E6%96%87%E4%BB%B6%E5%92%8C%E8%B5%84%E6%BA%90.md)
 
 
 
