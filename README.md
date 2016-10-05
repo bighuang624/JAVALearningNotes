@@ -33,6 +33,7 @@
 
 [java学习(十四)-JAR文件和资源](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E5%8D%81%E5%9B%9B)-JAR%E6%96%87%E4%BB%B6%E5%92%8C%E8%B5%84%E6%BA%90.md)
 
+[java学习(十五)-应用程序首选项存储](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E5%8D%81%E4%BA%94)-%E5%BA%94%E7%94%A8%E7%A8%8B%E5%BA%8F%E9%A6%96%E9%80%89%E9%A1%B9%E5%AD%98%E5%82%A8.md)
 
 
 [java正则表达式](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E7%9A%84%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
