@@ -37,5 +37,6 @@
 
 [java学习(十六)-异常](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E5%8D%81%E5%85%AD)-%E5%BC%82%E5%B8%B8.md)
 
+[java学习(十七)-记录日志](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E5%AD%A6%E4%B9%A0(%E5%8D%81%E4%B8%83)-%E8%AE%B0%E5%BD%95%E6%97%A5%E5%BF%97.md)
 
 [java正则表达式](https://github.com/bighuang624/JAVALearningNotes/blob/master/java%E7%9A%84%E6%AD%A3%E5%88%99%E8%A1%A8%E8%BE%BE%E5%BC%8F.md)
